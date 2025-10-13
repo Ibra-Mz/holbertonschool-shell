@@ -1,1 +1,2 @@
-add listfiles
+#!/bin/bash
+ls -l
